@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ojeifo Oziegbe
-- 👀 I’m interested in data science and machine learning
+- 👀 I’m interested in data scientist interested with geospatial, comuter vision and time series data
 - 🌱 I’m currently learning geospatial analysis with python as I am super passionate about geospatial data
-- 💞️ I’m looking to collaborate on any data science for good project
 - 📫 How to reach me ojeifoissy@gmail.com
 
 <!---
